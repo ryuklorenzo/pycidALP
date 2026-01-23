@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="optativa_pycicd",
-    version="1.0.0",
+    name="pycidALP",
+    version="1.0.2",
     author="Angel Lorenzo-Penalva Lozano",
     author_email="anglorloz@alu.edu.gva.es",
     description="Descripción de tu proyecto",
